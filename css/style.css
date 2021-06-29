@@ -1,16 +1,16 @@
-/* RESET */
+/*---------------------- RESET ----------------------*/
 *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
 }
 
-/* COMMON */
+/*---------------------- COMMON ----------------------*/
 html {
     scroll-behavior: smooth;
 } 
 
-/* HEADER */
+/*---------------------- HEADER ----------------------*/
 header {
     position: fixed;
     z-index: 10;
@@ -43,7 +43,7 @@ nav a:hover {
     color: rgb(255, 153, 0);
 }
 
-/* CORPO */
+/*---------------------- CORPO ----------------------*/
 main section {
     position: relative;
     height: 100vh;
