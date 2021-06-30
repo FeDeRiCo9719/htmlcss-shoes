@@ -8,6 +8,9 @@
 /*---------------------- COMMON ----------------------*/
 html {
     scroll-behavior: smooth;
+}
+body {
+    font-family: 'Rubik Mono One';
 } 
 
 /*---------------------- HEADER ----------------------*/
@@ -29,7 +32,6 @@ nav a {
     border: 2px solid white;
     text-decoration: none;
     font-size: 30px;
-    font-family: Impact;
     color: white;
     height: 50px;
     width: 50px;
@@ -66,6 +68,5 @@ main section {
     color: white;
 }
 .box-product h1 {
-    font-size: 70px;
-    font-family: Impact;
+    font-size: 50px;
 }
